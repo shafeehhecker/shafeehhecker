@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shafeehhecker
+- 👋 Hi, I’m @shafeeh
 - 👀 I’m interested in all kinds of Tech
-- 🌱 I’m currently learning Flutter and Ethical Hacking
-- 💞️ I’m looking to collaborate on WebDev
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on Web and C++ projects 
 - 📫 How to reach me @shafeeh02
 
 <!---
