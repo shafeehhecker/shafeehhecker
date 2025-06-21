@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @shafeeh
-- 👀 I’m interested in all kinds of Tech
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on Web and C++ projects 
-- 📫 How to reach me @shafeeh02
-
-<!---
-shafeehhecker/shafeehhecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Muhammed Shafeeh
+NITC 25'
+Skilled in web development ,Custom Engineering Software development.
+Also skilled in Data Analytics and ML Integration to existing Oil and Gas,FMCG firm (Consulting only)
+Contact : +974-339073 (Qatar) | +91-751115855 (India) 
